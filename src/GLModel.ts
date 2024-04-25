@@ -1312,6 +1312,16 @@ export class GLModel {
         return ret;
     };
 
+    /**
+     * Add additional information to the model for DSPAtlas
+     * @param dict dict with aminoacid and their additional information from lip
+     */
+
+    public addResidueData{
+
+
+    }
+
 
 
     /**

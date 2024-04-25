@@ -81,6 +81,12 @@ export interface AtomSpec {
   uMat?: Record<string, number>;
   symmetries?: Vector3[];
   sym?: any;
+
+  /** add new  properties for dspatlas*/
+  residue?: string;
+  barcode?: string;
+  coverage?: string;
+
 }
 
 /**
