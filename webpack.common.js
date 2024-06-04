@@ -26,7 +26,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, "build"),
-    library: '[name]',
+    library: '3Dmol',
     libraryTarget: "umd",
     globalObject: "this"
   },

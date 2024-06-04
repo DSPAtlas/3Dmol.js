@@ -1313,18 +1313,6 @@ export class GLModel {
     };
 
     /**
-     * Add additional information to the model for DSPAtlas
-     * @param dict dict with aminoacid and their additional information from lip
-     */
-
-    public addResidueData{
-
-
-    }
-
-
-
-    /**
      * Return object representing internal state of
      * the model appropriate for passing to setInternalState
      *
